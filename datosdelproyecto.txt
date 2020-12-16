@@ -1,0 +1,14 @@
+Integrantes
+Nombre del Estudiante 01: Trigo Suarez Ricardo Pablo
+Git Hub: https://github.com/RpabloT/EP-Parte01-.git
+
+Nombre del Estudiante 02: Jose Wilfredo Navarro Vicente
+Git Hub: https://github.com/Joseenv/EP-Parte02.git
+
+Nombre del Estudiante 03: CRISTIAN A. CHIPANA HUAMAN
+Git Hub: https://github.com/CritianChipana/EP-Parte_3.git
+
+Nombre del Estudiante 04: Oyola Saavedra Carlos Gustavo
+Git Hub: https://github.com/carlosoyola1409/EP-Parte_4.git
+
+Por favor, inicializar desde el login
